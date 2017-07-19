@@ -2,3 +2,4 @@ sac
 chaussures
 creme solaire
 lunettes
+chapeau
